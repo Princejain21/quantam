@@ -1,0 +1,15 @@
+.box:hover{
+    box-shadow: 10px 10px lightblue;
+    zoom: 90px;
+    cursor: pointer;
+    margin: 2px;
+    border: 2px solid blue;
+}
+.box:hover .logoe{
+    position: relative;
+    bottom: 1rem;
+}
+.logoe{
+    color: rgb(100, 100, 151);
+    font-size: 2rem;
+}

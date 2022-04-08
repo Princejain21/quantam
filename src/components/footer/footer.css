@@ -1,0 +1,16 @@
+
+footer{
+    background: url('../../images/footer.jpg') no-repeat center;
+    background-size: cover;
+    margin-top: auto !important;
+}
+#btn::placeholder{
+color: white !important;
+}
+input[type="email"]{
+    background-color: initial;
+    color: white;
+}
+input[type="email"]::placeholder{
+    color: white;
+}
