@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quantam/static/css/main.fd99b95f.css",
+    "main.js": "/quantam/static/js/main.69553510.js",
+    "static/js/787.9470b5ba.chunk.js": "/quantam/static/js/787.9470b5ba.chunk.js",
+    "static/media/blurd_image.jpg": "/quantam/static/media/blurd_image.94d6f247f678e8e943f8.jpg",
+    "static/media/girl-boy.jpg": "/quantam/static/media/girl-boy.4adc9e63a6e9089ba018.jpg",
+    "index.html": "/quantam/index.html",
+    "main.fd99b95f.css.map": "/quantam/static/css/main.fd99b95f.css.map",
+    "main.69553510.js.map": "/quantam/static/js/main.69553510.js.map",
+    "787.9470b5ba.chunk.js.map": "/quantam/static/js/787.9470b5ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd99b95f.css",
+    "static/js/main.69553510.js"
+  ]
+}
